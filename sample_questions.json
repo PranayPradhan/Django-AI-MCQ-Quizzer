@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of the third planet from the Sun?",
+    "options": ["Mars", "Earth", "Mercury", "Saturn"],
+    "correct_option": 1
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Venus", "Mars", "Jupiter"],
+    "correct_option": 2
+  },
+  {
+    "question": "Which is the largest planet in our solar system?",
+    "options": ["Saturn", "Jupiter", "Neptune", "Earth"],
+    "correct_option": 1
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "correct_option": 0
+  },
+  {
+    "question": "Which planet is famous for its rings?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correct_option": 1
+  },
+  {
+    "question": "Which planet is known as the Morning Star or Evening Star?",
+    "options": ["Mars", "Venus", "Mercury", "Saturn"],
+    "correct_option": 1
+  },
+  {
+    "question": "Which is the coldest planet in the solar system?",
+    "options": ["Neptune", "Uranus", "Saturn", "Pluto"],
+    "correct_option": 1
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correct_option": 2
+  },
+  {
+    "question": "Which celestial body is at the center of our solar system?",
+    "options": ["Earth", "Moon", "Sun", "Jupiter"],
+    "correct_option": 2
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": ["Earth", "Neptune", "Uranus", "Venus"],
+    "correct_option": 0
+  }
+]

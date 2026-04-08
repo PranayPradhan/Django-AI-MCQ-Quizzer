@@ -1,4 +1,4 @@
-z# AI Quizzer
+# AI Quizzer
 
 An AI-powered end-to-end MCQ quiz platform built with Django and OpenRouter, enabling teachers to create, assign, and evaluate quizzes efficiently.
 

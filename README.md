@@ -1,4 +1,4 @@
-# AI Quizzer
+z# AI Quizzer
 
 An AI-powered end-to-end MCQ quiz platform built with Django and OpenRouter, enabling teachers to create, assign, and evaluate quizzes efficiently.
 
@@ -38,7 +38,7 @@ It provides a complete workflow from quiz creation to result evaluation, with a 
 
   * Structured JSON output
   * Valid MCQs (4 options, 1 correct answer)
-  * Fallback to local dataset if AI fails
+  * Fallback to placeholder questions and option, if AI fails
 
 ---
 
@@ -53,7 +53,7 @@ It provides a complete workflow from quiz creation to result evaluation, with a 
 
 ## Reliability
 
-* AI failure handling with fallback questions (`sample_questions.json`)
+* AI failure handling with placeholder questions and options which the teacher is required to fill at review time.
 * Input validation for all generated questions
 * Safe deployment using environment variables
 
